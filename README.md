@@ -229,20 +229,4 @@ npm run build
 * GCP → Backend API
 * Interoperable and secure
 
----
 
-### 🚀 Next Steps (Optional):
-
-* [ ] Add **Terraform scripts** for automation?
-* [ ] Add **CI/CD pipeline** (GitHub Actions)?
-* [ ] Host backend in both clouds for failover?
-
----
-
-Would you like me to:
-
-* Share a downloadable **React + Node.js codebase**?
-* Guide you on **CI/CD integration**?
-* Help build a **Terraform setup** for automation?
-
-Let me know!
