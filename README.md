@@ -231,9 +231,10 @@ npm run build
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/468e2060-ff18-4f3a-8818-03efc8952e87" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/905c55ed-5b08-4e56-820f-e56bab5e3863" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3a75a550-c632-427b-9219-f4637deb6e4b" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2f801a7e-a32d-4a9d-81de-bb3e703bfd91" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e4e799f5-d909-4117-a3ae-dd4949783a81" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/be1d3aed-a003-47e7-ac9a-8eaf635c2a45" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/468e2060-ff18-4f3a-8818-03efc8952e87" />1
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3a75a550-c632-427b-9219-f4637deb6e4b" />3
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2f801a7e-a32d-4a9d-81de-bb3e703bfd91" />4
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e4e799f5-d909-4117-a3ae-dd4949783a81" />5
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/905c55ed-5b08-4e56-820f-e56bab5e3863" />2
+
+
