@@ -228,8 +228,8 @@ npm run build
 * AWS → Frontend + DB
 * GCP → Backend API
 * Interoperable and secure
-Cloudfront- https://d1z5sfs5o5ey06.cloudfront.net
-Bucket website endpoint - http://kp-frontend.s3-website.ap-south-1.amazonaws.com
+* Cloudfront- https://d1z5sfs5o5ey06.cloudfront.net
+* Bucket website endpoint - http://kp-frontend.s3-website.ap-south-1.amazonaws.com
 
 ## OUTPUT
 
