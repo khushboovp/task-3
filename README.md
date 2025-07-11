@@ -14,8 +14,6 @@
 
 **Description of Task**
 
-Absolutely, Khushboo! Let's **practically deploy your multi-cloud architecture step-by-step**, using:
-
 ### 🔁 AWS (for frontend + DB)
 
 ### 🔁 GCP (for backend API)
