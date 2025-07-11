@@ -246,3 +246,5 @@ npm run build
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1219f637-fc15-4474-842b-14af45ba106b" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48b7538f-b002-464f-aa09-6e7aa510e858" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2de64c20-9b22-4042-83bb-6d5d72d7bae7" />
+
+** [Multi Cloud Project Report.docx](https://github.com/user-attachments/files/21181819/Multi.Cloud.Project.Report.docx)
